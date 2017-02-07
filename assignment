@@ -1,0 +1,24 @@
+Question 1]
+Answer :
+Internal Storage
+Store private data on the device memory.
+This is phone memory when you purchase a phone.
+
+External Storage
+Store public data on the shared external storage.
+It could be a SD card
+
+Question 2]
+Answer :
+Cashed data is removed in following two scenarios:
+a) You go in settings app and then clear the data against the appication.
+b) Uninstall the application. 
+
+Question 3]
+Answer:
+Normal permission with example
+Many permissions are designated as PROTECTION_NORMAL, which indicates that there's no great risk to the user's privacy or security in letting apps have those permissions. For example, users would reasonably want to know whether an app can read their contact information, so users have to grant this permission explicitly. By contrast, there's no great risk in allowing an app to vibrate the device, so that permission is designated as normal.
+
+Critical permissions with example
+To protect the system's integrity and the user's privacy, Android runs each app in a limited access sandbox. If the app wants to use resources or information outside of its sandbox, the app has to explicitly request permission. Depending on the type of permission the app requests, the system may grant the permission automatically, or the system may ask the user to grant the permission.
+For example, the ability to read the user's contacts is a dangerous permission. If an app declares that it needs a dangerous permission, the user has to explicitly grant the permission to the app.
